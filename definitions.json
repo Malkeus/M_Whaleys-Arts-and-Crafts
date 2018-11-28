@@ -1,0 +1,9 @@
+{
+    "type" : "recipe_category",
+    "id" : "CC_ART",
+    "recipe_subcategories" : [
+      "CSC_ALL",
+      "CSC_ART_FIGURINES",
+      "CSC_ART_PIPES"
+    ]
+  }

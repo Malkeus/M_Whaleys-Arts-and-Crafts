@@ -1,0 +1,238 @@
+[
+{
+  "type" : "recipe",
+  "result": "skull_pipe",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_PIPES",
+  "skill_used": "fabrication",
+  "difficulty": 2,
+  "time": 100000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 1 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "stick", 1 ],
+	  [ "2x4", 1 ]
+	]
+  ]
+},{
+  "type" : "recipe",
+  "result": "zombie_pipe",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_PIPES",
+  "skill_used": "fabrication",
+  "difficulty": 2,
+  "time": 100000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 1 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "stick", 1 ],
+	  [ "2x4", 1 ]
+	]
+  ]
+},{
+  "type" : "recipe",
+  "result": "claw_pipe",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_PIPES",
+  "skill_used": "fabrication",
+  "difficulty": 2,
+  "time": 100000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 2 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "stick", 1 ],
+	  [ "2x4", 1 ]
+	]
+  ]
+},{
+  "type" : "recipe",
+  "result": "leaf_pipe",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_PIPES",
+  "skill_used": "fabrication",
+  "difficulty": 2,
+  "time": 100000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 1 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "stick", 1 ],
+	  [ "2x4", 1 ]
+	]
+  ]
+},{
+  "type" : "recipe",
+  "result": "frog_pipe",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_PIPES",
+  "skill_used": "fabrication",
+  "difficulty": 2,
+  "time": 100000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 1 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "stick", 1 ],
+	  [ "2x4", 1 ]
+	]
+  ]
+},{
+  "type" : "recipe",
+  "result": "wave_pipe",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_PIPES",
+  "skill_used": "fabrication",
+  "difficulty": 2,
+  "time": 100000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 2 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "stick", 1 ],
+	  [ "2x4", 1 ]
+	]
+  ]
+},{
+  "type" : "recipe",
+  "result": "america_pipe",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_PIPES",
+  "skill_used": "fabrication",
+  "difficulty": 2,
+  "time": 100000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 2 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "stick", 1 ],
+	  [ "2x4", 1 ]
+	]
+  ]
+},{
+  "type" : "recipe",
+  "result": "heart_pipe",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_PIPES",
+  "skill_used": "fabrication",
+  "difficulty": 2,
+  "time": 100000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 1 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "stick", 1 ],
+	  [ "2x4", 1 ]
+	]
+  ]
+},{
+  "type" : "recipe",
+  "result": "pickle_pipe",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_PIPES",
+  "skill_used": "fabrication",
+  "difficulty": 2,
+  "time": 100000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 1 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "stick", 1 ],
+	  [ "2x4", 1 ]
+	]
+  ]
+},{
+  "type" : "recipe",
+  "result": "flamingo_pipe",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_PIPES",
+  "skill_used": "fabrication",
+  "difficulty": 2,
+  "time": 100000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 2 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "stick", 1 ],
+	  [ "2x4", 1 ]
+	]
+  ]
+},{
+  "type" : "recipe",
+  "result": "fire_pipe",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_PIPES",
+  "skill_used": "fabrication",
+  "difficulty": 2,
+  "time": 100000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 1 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "stick", 1 ],
+	  [ "2x4", 1 ]
+	]
+  ]
+},{
+  "type" : "recipe",
+  "result": "necklace_pipe",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_PIPES",
+  "skill_used": "fabrication",
+  "difficulty": 2,
+  "time": 100000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 2 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "stick", 1 ],
+	  [ "2x4", 1 ]
+	],
+	[[ "string_6", 2 ]]
+  ]
+},{
+  "type" : "recipe",
+  "result": "sodacan_pipe",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_PIPES",
+  "skill_used": "fabrication",
+  "difficulty": 1,
+  "time": 100000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 1 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "can_drink", 1 ],
+	  [ "can_food", 1 ]
+	]
+  ]
+}
+]

@@ -1,0 +1,307 @@
+[
+{
+  "type" : "recipe",
+  "result": "fig_zombie",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_FIGURINES",
+  "skill_used": "fabrication",
+  "difficulty": 2,
+  "time": 60000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 1 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "stick", 1 ],
+	  [ "splinter", 1 ], 
+	  [ "2x4", 1 ]
+	]
+  ]
+},{
+  "type" : "recipe",
+  "result": "fig_tree",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_FIGURINES",
+  "skill_used": "fabrication",
+  "difficulty": 2,
+  "time": 60000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 1 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "stick", 1 ],
+	  [ "splinter", 1 ], 
+	  [ "2x4", 1 ]
+	]
+  ]
+},{
+  "type" : "recipe",
+  "result": "fig_squirrel",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_FIGURINES",
+  "skill_used": "fabrication",
+  "difficulty": 2,
+  "time": 60000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 1 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "stick", 1 ],
+	  [ "splinter", 1 ], 
+	  [ "2x4", 1 ]
+	]
+  ]
+},{
+  "type" : "recipe",
+  "result": "fig_dog",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_FIGURINES",
+  "skill_used": "fabrication",
+  "difficulty": 2,
+  "time": 60000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 1 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "stick", 1 ],
+	  [ "splinter", 1 ], 
+	  [ "2x4", 1 ]
+	]
+  ]
+},{
+  "type" : "recipe",
+  "result": "fig_cat",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_FIGURINES",
+  "skill_used": "fabrication",
+  "difficulty": 2,
+  "time": 60000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 1 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "stick", 1 ],
+	  [ "splinter", 1 ], 
+	  [ "2x4", 1 ]
+	]
+  ]
+},{
+  "type" : "recipe",
+  "result": "fig_bird",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_FIGURINES",
+  "skill_used": "fabrication",
+  "difficulty": 2,
+  "time": 60000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 1 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "stick", 1 ],
+	  [ "splinter", 1 ], 
+	  [ "2x4", 1 ]
+	]
+  ]
+},{
+  "type" : "recipe",
+  "result": "fig_dragon",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_FIGURINES",
+  "skill_used": "fabrication",
+  "difficulty": 2,
+  "time": 60000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 2 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "stick", 1 ],
+	  [ "splinter", 1 ], 
+	  [ "2x4", 1 ]
+	]
+  ]
+},{
+  "type" : "recipe",
+  "result": "fig_skull",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_FIGURINES",
+  "skill_used": "fabrication",
+  "difficulty": 2,
+  "time": 60000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 1 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "stick", 1 ],
+	  [ "splinter", 1 ], 
+	  [ "2x4", 1 ]
+	]
+  ]
+},{
+  "type" : "recipe",
+  "result": "fig_boat",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_FIGURINES",
+  "skill_used": "fabrication",
+  "difficulty": 2,
+  "time": 60000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 2 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "stick", 1 ],
+	  [ "splinter", 1 ], 
+	  [ "2x4", 1 ]
+	]
+  ]
+},{
+  "type" : "recipe",
+  "result": "fig_heart",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_FIGURINES",
+  "skill_used": "fabrication",
+  "difficulty": 2,
+  "time": 60000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 1 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "stick", 1 ],
+	  [ "splinter", 1 ], 
+	  [ "2x4", 1 ]
+	]
+  ]
+},{
+  "type" : "recipe",
+  "result": "fig_bullet",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_FIGURINES",
+  "skill_used": "fabrication",
+  "difficulty": 2,
+  "time": 60000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 1 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "stick", 1 ],
+	  [ "splinter", 1 ], 
+	  [ "2x4", 1 ]
+	]
+  ]
+},{
+  "type" : "recipe",
+  "result": "fig_polcar",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_FIGURINES",
+  "skill_used": "fabrication",
+  "difficulty": 2,
+  "time": 60000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 2 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "stick", 1 ],
+	  [ "splinter", 1 ], 
+	  [ "2x4", 1 ]
+	]
+  ]
+},{
+  "type" : "recipe",
+  "result": "fig_angel",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_FIGURINES",
+  "skill_used": "fabrication",
+  "difficulty": 2,
+  "time": 60000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 1 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "stick", 1 ],
+	  [ "splinter", 1 ], 
+	  [ "2x4", 1 ]
+	]
+  ]
+},{
+  "type" : "recipe",
+  "result": "fig_demon",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_FIGURINES",
+  "skill_used": "fabrication",
+  "difficulty": 2,
+  "time": 60000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 2 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "stick", 1 ],
+	  [ "splinter", 1 ], 
+	  [ "2x4", 1 ]
+	]
+  ]
+},{
+  "type" : "recipe",
+  "result": "fig_beetle",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_FIGURINES",
+  "skill_used": "fabrication",
+  "difficulty": 2,
+  "time": 60000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 1 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "stick", 1 ],
+	  [ "splinter", 1 ], 
+	  [ "2x4", 1 ]
+	]
+  ]
+},{
+  "type" : "recipe",
+  "result": "fig_horse",
+  "category": "CC_ART",
+  "subcategory": "CSC_ART_FIGURINES",
+  "skill_used": "fabrication",
+  "difficulty": 2,
+  "time": 60000,
+  "reversible": false,
+  "decomp_learn": 0,
+  "autolearn": [[ "fabrication", 2 ]],
+  "qualities": [ { "id": "CUT", "level": 1 } ],
+  "components": [
+    [ 
+	  [ "stick", 1 ],
+	  [ "splinter", 1 ], 
+	  [ "2x4", 1 ]
+	]
+  ]
+}
+]
